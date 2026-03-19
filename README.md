@@ -21,9 +21,11 @@ Arduino based autonomous robot car using sensors, motors, and real time control 
 - Perfromed debugging and system testing
 - Improved performance through iterative design
 
+## Demo Video
+https://drive.google.com/file/d/1KRcXIN2Q3dpWuZu-nCvPW3R0EB4DAbay/view?usp=sharing 
+
 ## Final Build
 ![Robot Car](Robot-Car-SideView.jpeg)
 ![Robot Car](Robot-Car-TopDown.jpeg)
 
-## Demo Video
-https://drive.google.com/file/d/1KRcXIN2Q3dpWuZu-nCvPW3R0EB4DAbay/view?usp=sharing 
+
